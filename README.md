@@ -8,8 +8,11 @@ Features:
 
 
 ## Build & Test
+
+Requires NodeJS 12+
+
 ```
 npm install
-npm run build
+npm run compile
 npm run test
 ```
